@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">firstLaba</string>
+    <string name="dialog_list">Dialog list</string>
+    <string name="obama_title">Obama</string>
+    <string name="obama_text">I have not been in your entrance!</string>
+    <string name="tramp_title">Trump</string>
+    <string name="tramp_text">Unblock me on Twitter!</string>
+    <string name="biden_title">Biden</string>
+    <string name="biden_text">where are my pills?</string>
+</resources>

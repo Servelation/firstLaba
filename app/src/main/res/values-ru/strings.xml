@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Первая лаба </string>
+    <string name="dialog_list">Список диалогов</string>
+    <string name="obama_title">Обама</string>
+    <string name="obama_text">Да не был я в твоем подъезде!</string>
+    <string name="tramp_title">Трамп</string>
+    <string name="tramp_text">Разблокируй меня в Твиттере!</string>
+    <string name="biden_title">Байден</string>
+    <string name="biden_text">Где мои таблетки?</string>
+</resources>
